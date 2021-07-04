@@ -1,3 +1,7 @@
 # About This Game
 
 Cat Cafe is a simple project created for my Digipen class final with the other three programmers.  A lot of the time I spent was with bug fixing, which would probably qualify me more as a QA tester, but it's still a work I'm proud of.  It's admittedly not a very large game - you could complete it in a matter of minutes even with playing the tutorial - but it's still something.
+
+<TODO: Insert an image here>
+
+The game was created initially with the idea of being a cafe game akin to those found in flash games, though given the simplicity of Digipen's not-quite-Unity system, a few concessions had to be made.  There's no character to control, so the most you do is take orders and click food.
