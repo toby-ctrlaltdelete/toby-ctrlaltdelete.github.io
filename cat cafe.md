@@ -10,4 +10,4 @@ The game was created initially with the idea of being a cafe game akin to those 
 
 While it wasn't a very big game, it was still the first thing I made, and for that it holds a special place in my heart.  All the work put into it was definitely a blast considering I was working with friends, and I hope to be able to do something similar to that in the future.
 
-<Place the download link here>
+DOWNLOAD HERE: https://drive.google.com/file/d/1imzSpm63cAYODO4dKhUwemycbvEMxLD8/view?usp=sharing
