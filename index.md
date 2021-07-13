@@ -16,5 +16,6 @@ A small, simple game that me and all three other coders made as part of our fina
 You can download the release for yourself here: https://drive.google.com/file/d/1imzSpm63cAYODO4dKhUwemycbvEMxLD8/view?usp=sharing
   
 ## Contact Me
-  
+
 <Insert ways to contact me here>
+tobycayce@gmail.com
