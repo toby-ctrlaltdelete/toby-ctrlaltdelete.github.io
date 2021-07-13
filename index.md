@@ -10,7 +10,6 @@ Below are a few projects that I've developed under my belt, both worked on by my
 A game where every single key is connected to its' own seperate, simple minigame, leading to twenty-four things to manage all at once (Q/W and O/P are conjoined).
 
 ### Cat Cafe
-<TODO: Add a link to this header.>
 A small, simple game that me and all three other coders made as part of our final project in our Digipen course together with the art team - alongside working on the actual code for the project, I also fixed a lot of bugs in the code for the others.  It's not particularly long or complex; there are only two levels and not much replay value.
 
 You can download the release for yourself here: https://drive.google.com/file/d/1imzSpm63cAYODO4dKhUwemycbvEMxLD8/view?usp=sharing
@@ -19,3 +18,5 @@ You can download the release for yourself here: https://drive.google.com/file/d/
 
 <Insert ways to contact me here>
 tobycayce@gmail.com
+  
+https://www.linkedin.com/in/toby-cayce-06bb1a1b5/
