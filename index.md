@@ -18,6 +18,6 @@ You can download the release for yourself <a href='https://drive.google.com/file
 ## Contact Me
 
 <Insert ways to contact me here>
-tobycayce@gmail.com
+Email: tobycayce@gmail.com
   
-https://www.linkedin.com/in/toby-cayce-06bb1a1b5/
+  <a href='https://www.linkedin.com/in/toby-cayce-06bb1a1b5/'>Linkedin</a>
