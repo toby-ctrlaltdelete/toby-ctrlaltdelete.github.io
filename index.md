@@ -16,7 +16,7 @@ A small, simple game that me and all three other coders made as part of our fina
 <img src='https://user-images.githubusercontent.com/70346578/126530973-8c01c245-95d8-4a19-ac46-39da811d2633.png'>
 
 
-You can download the release for yourself <a href='https://drive.google.com/file/d/1imzSpm63cAYODO4dKhUwemycbvEMxLD8/view?usp=sharing'>here</a>.
+You can download the release for yourself <a href='https://drive.google.com/file/d/1imzSpm63cAYODO4dKhUwemycbvEMxLD8/view?usp=sharing'>at this Google Drive link here</a>.
   
 ## Contact Me
 
