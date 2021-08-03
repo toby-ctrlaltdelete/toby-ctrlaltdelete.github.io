@@ -9,6 +9,7 @@ Below are a few projects that I've developed under my belt, both worked on by my
 ### Keymash Panic
 A game where every single key is connected to its' own seperate, simple minigame, leading to twenty-four things to manage all at once (Q/W and O/P are conjoined).
 <img src='https://user-images.githubusercontent.com/70346578/126044865-d995a6d2-f610-4e6e-a586-a7c17b3ead1c.gif'>
+Note that this build of the game is from early June, and is not representative of the final product.
 
 ### Cat Cafe
 A small, simple game that me and all three other coders made as part of our final project in our Digipen course together with the art team - alongside working on the actual code for the project, I also fixed a lot of bugs in the code for the others.  It's not particularly long or complex, but it is the first game I have ever made.
