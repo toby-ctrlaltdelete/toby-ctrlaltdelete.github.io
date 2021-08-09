@@ -7,7 +7,7 @@ Below are a few projects that I've developed under my belt, both worked on by my
 ## My Projects
 
 ### Keymash Panic
-A game where every single key is connected to its' own seperate, simple minigame, leading to twenty-four things to manage all at once (Q/W and O/P are conjoined).
+A game where every single key is connected to its' own seperate, simple minigame, leading to twenty-four things to manage all at once (Q/W and O/P are conjoined).  The game itself is made in Unity, as it's the closest game engine I worked with back when I was in DigiPen.
 <img src='https://user-images.githubusercontent.com/70346578/126044865-d995a6d2-f610-4e6e-a586-a7c17b3ead1c.gif'>
 Note that this build of the game is from early June, and is not representative of the final product.
 
