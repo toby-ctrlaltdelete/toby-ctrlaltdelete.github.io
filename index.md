@@ -1,8 +1,8 @@
 # An Introduction & About Me
 
-Hello!  My name is <i>Toby Cayce<i>, and I'm here to become a professional game developer.  While playing around with level designers in my childhood was always fun, but comparing it to doing the real thing is far more enjoyable and satisfying.  With coding experience and several projects under my belt, I'm more than prepared to continue my work wherever it may take me.
+Hello!  My name is <i>Toby Cayce</i>, and I'm a game developer.  While playing with old level design softwarewas always fun, creating my own games and projects from scratch is much more enjoyable.
 
-Below are a few projects that I've developed under my belt, including ones that I've worked on by myself and with a group.
+Below are a few projects that I've developed.
 
 ## My Projects
 
