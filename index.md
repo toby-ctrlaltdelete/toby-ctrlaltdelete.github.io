@@ -1,6 +1,6 @@
 # An Introduction & About Me
 
-Hello!  My name is <i>Toby Cayce</i>, and I'm a game developer.  While playing with old level design software was always fun, creating my own games and projects from scratch is much more enjoyable.
+Hello!  My name is <i><b>Toby Cayce</i></b>, and I'm a game developer.  While playing with old level design software was always fun, creating my own games and projects from scratch is much more enjoyable.
 
 Below are a few projects that I've developed.
 
